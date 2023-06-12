@@ -1,2 +1,8 @@
-# py-shell-plus
-extended IDLE Sheel
+# Basic Commands
+
+<ul>
+  <li>run <file></li>
+  <li>install <package></li>
+</ul>
+
+
